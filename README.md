@@ -29,8 +29,8 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 
 ## 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.ken109.dev/api?username=ken109&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.ken109.dev/api/top-langs/?username=ken109&layout=compact&theme=radical)
+![GitHub stats](https://github-readme-stats.ken109.dev/api?username=ken109&show_icons=true&theme=tokyonight&bg_color=00000000)
+![Top Langs](https://github-readme-stats.ken109.dev/api/top-langs/?username=ken109&theme=tokyonight&bg_color=00000000&size_weight=0.5&count_weight=0.5&hide=css,liquid,c,tex,javascript,java,dart,python,html)
 
 ## 📫 Connect with me
 - Email: [kensuke.kubo@ken109.dev](mailto:kensuke.kubo@ken109.dev)
