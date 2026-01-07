@@ -29,8 +29,8 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 
 ## 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ken109&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ken109&layout=compact&theme=radical)
+![GitHub stats](https://github-readme-stats-kappa-jade-83.vercel.app/api?username=ken109&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats-kappa-jade-83.vercel.app/api/top-langs/?username=ken109&layout=compact&theme=radical)
 
 ## 📫 Connect with me
 - Email: [kensuke.kubo@ken109.dev](mailto:kensuke.kubo@ken109.dev)
